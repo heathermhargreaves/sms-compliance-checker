@@ -73,3 +73,11 @@
     width: 50vw;
     min-width: 320px;
   }
+
+  .main .disclaimer {
+    font-weight: bold;
+    margin-top: 40px;
+    width: 50vw;
+    min-width: 320px;
+    text-align: center;
+  }
